@@ -31,6 +31,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - A terminal built for coding agents.
+- [symphony](https://github.com/openai/symphony) - Turns project work into isolated, autonomous implementation runs.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board for managing AI coding agents.
 - [vibe-tree](https://github.com/sahithvibudhi/vibe-tree) - Vibe code with Claude in parallel git worktrees.
 - [vibecraft](https://github.com/rayzhudev/vibecraft) - An RTS-style workspace for managing AI coding agents.
