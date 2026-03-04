@@ -70,6 +70,7 @@ Systems for coordinating multiple specialized agents working together.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
+- [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
 
 ## Autonomous Loop Runners
 
