@@ -53,6 +53,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [leon](https://github.com/leon-ai/leon) - Open-source personal assistant with voice and text interfaces.
 - [lettabot](https://github.com/letta-ai/lettabot) - Your personal AI assistant that remembers everything.
 - [lobsterai](https://github.com/netease-youdao/lobsterai) - Your 24/7 all-scenario AI agent that gets work done for you.
+- [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure.
