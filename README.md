@@ -58,6 +58,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
+- [piclaw](https://github.com/rcarmo/piclaw) - A pi-based general-purpose agent.
 - [picoclaw](https://github.com/sipeed/picoclaw) - Ultra-efficient AI assistant.
 - [rho](https://github.com/mikeyobrien/rho) - An AI agent that stays running, remembers across sessions, and checks in on its own.
 - [rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory.
