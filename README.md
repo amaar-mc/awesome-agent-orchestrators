@@ -48,6 +48,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language.
 - [cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [ClawWork](https://github.com/HKUDS/ClawWork) - OpenClaw as your AI coworker.
+- [CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant.
 - [denchclaw](https://github.com/DenchHQ/denchclaw) - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - An AI agent that lives on your computer and works for you.
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you.
