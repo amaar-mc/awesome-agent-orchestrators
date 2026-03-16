@@ -61,6 +61,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [MetaClaw](https://github.com/aiming-lab/MetaClaw) - Just talk to your agent — it learns and evolves.
 - [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight personal AI assistant.
 - [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw that runs in Apple containers for security.
+- [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw.
 - [nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure.
 - [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 - [piclaw](https://github.com/rcarmo/piclaw) - A pi-based general-purpose agent.
