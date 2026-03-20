@@ -79,6 +79,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 Systems for coordinating multiple specialized agents working together.
 
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
+- [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
 - [claude-flow](https://github.com/ruvnet/claude-flow) - Deploy multi-agent swarms with coordinated workflows.
 - [ClawTeam](https://github.com/HKUDS/ClawTeam) - Agent Swarm Intelligence (One Command → Full Automation).
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
